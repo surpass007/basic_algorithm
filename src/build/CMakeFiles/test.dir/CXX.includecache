@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuqi/WorkSpace/Documents/test_env/src/test.cpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+map
+-
+string
+-
+time.h
+-
+assert.h
+-
+algorithm
+-
+test.h
+/Users/liuqi/WorkSpace/Documents/test_env/src/test.h
+
+/Users/liuqi/WorkSpace/Documents/test_env/src/test.h
+
